@@ -12,3 +12,5 @@ THis should now make it work so it breaks.
 
 It seems the easiest way to resolve conflicts is to let git manage 
 it automatically.
+
+This should be auto mode
