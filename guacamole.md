@@ -2,4 +2,5 @@
 
 - avocado
 - turnips
+- beef chunks
 
